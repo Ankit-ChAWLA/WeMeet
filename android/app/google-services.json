@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209783101013",
+    "firebase_url": "https://wemeet-d4dc6.firebaseio.com",
+    "project_id": "wemeet-d4dc6",
+    "storage_bucket": "wemeet-d4dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209783101013:android:8769e458bc76c01f0726dc",
+        "android_client_info": {
+          "package_name": "com.ankitchawla.softwareadditional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209783101013-iotq77mv55kseiq5jl2mcftl7enlac05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMxsyx2HHmd3rklHmGtWJ4k_Qj3UQlYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209783101013-iotq77mv55kseiq5jl2mcftl7enlac05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
